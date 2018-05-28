@@ -1,0 +1,11 @@
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\bin\Debug\netcoreapp2.0\CsharpAdvanced.deps.json
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\bin\Debug\netcoreapp2.0\CsharpAdvanced.runtimeconfig.json
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\bin\Debug\netcoreapp2.0\CsharpAdvanced.runtimeconfig.dev.json
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\bin\Debug\netcoreapp2.0\CsharpAdvanced.dll
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\bin\Debug\netcoreapp2.0\CsharpAdvanced.pdb
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\obj\Debug\netcoreapp2.0\CsharpAdvanced.csprojResolveAssemblyReference.cache
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\obj\Debug\netcoreapp2.0\CsharpAdvanced.csproj.CoreCompileInputs.cache
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\obj\Debug\netcoreapp2.0\CsharpAdvanced.AssemblyInfoInputs.cache
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\obj\Debug\netcoreapp2.0\CsharpAdvanced.AssemblyInfo.cs
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\obj\Debug\netcoreapp2.0\CsharpAdvanced.dll
+D:\Luis\GitHub\Csharp-advanced\Csharp-advanced\Csharp-advanced\obj\Debug\netcoreapp2.0\CsharpAdvanced.pdb
